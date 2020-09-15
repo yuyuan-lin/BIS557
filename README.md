@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.com/yuyuan-lin/BIS557.svg?branch=master)](https://travis-ci.com/yuyuan-lin/BIS557)
+[![Coveralls test coverage](https://coveralls.io/repos/github/yuyuan-lin/BIS557/badge.svg)](https://coveralls.io/r/yuyuan-lin/BIS557?branch=master)
 <!-- badges: end -->
 
 The goal of BIS557 is to ...
